@@ -38,9 +38,9 @@ if (empty($nameErr) && empty($emailErr) && empty($bodyErr)){
 
 ?>
 
-    <img src="/php-crash/feedback/img/erasmus.png" class="w-25 mb-3" alt="">
+    <img src="/php-crash/feedback/img/student_logo.png" class="w-25 mb-3" alt="">
     <h2>Feedback</h2>
-    <p class="lead text-center">Leave feedback for Erasmus Scholarship</p>
+    <p class="lead text-center">Leave feedback for the Program</p>
     <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="POST" class="mt-4 w-75">
       <div class="mb-3">
         <label for="name" class="form-label">Name</label>

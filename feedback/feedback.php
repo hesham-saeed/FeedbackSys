@@ -1,14 +1,6 @@
 <?php include 'inc/header.php'; ?>
 
-<?php
-$name = $email = $body = '';
-$nameErr = $emailErr = $bodyErr = '';
 
-//Form submit
-if (isset($_POST['submit'])){
-  
-}
-?>
 
 <?php
   $sql = 'SELECT * FROM feedback';
