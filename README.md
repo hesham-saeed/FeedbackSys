@@ -7,7 +7,8 @@ It consists of 3 pages:
 - Feedback list
 
 ## Screenshots
-<img src="feedback/screenshots/feedback_index.png" style="width: 250px; overflow: hidden;"><img src="feedback/screenshots/feedback_index_validation.png" style="width: 250px; overflow: hidden;"><img src="feedback/screenshots/feedback_about.png" style="width: 250px; overflow: hidden;"><img src="feedback/screenshots/feedback_feedback.png" style="width: 250px;overflow: hidden;">
+<img src="feedback/screenshots/feedback_index.png" style="width: 250px; overflow: hidden;"><img src="feedback/screenshots/feedback_index_validation.png" style="width: 250px; overflow: hidden;"><br/>
+<img src="feedback/screenshots/feedback_about.png" style="width: 250px; overflow: hidden;"><img src="feedback/screenshots/feedback_feedback.png" style="width: 250px;overflow: hidden;">
 
 
 
